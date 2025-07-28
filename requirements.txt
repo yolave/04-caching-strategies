@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pydantic[email]
+uvicorn
+httpx
+# cache libraries
+fastapi-cache2[redis]
+aioredis
